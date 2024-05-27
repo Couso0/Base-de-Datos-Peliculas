@@ -3,5 +3,5 @@ Luis Rojas
 
 abrir xampp
 
-Ejecutar npm run dev
+y activar apache y mysql 
 
